@@ -8,12 +8,11 @@ The primary objective of this project is to conduct a comparative analysis of sa
 ## Dataset ([E commerce sales analysis/Sample - Superstore.csv]("C:\Users\Syed Abbas\Downloads\Sample - Superstore.csv")
 
 ## Insights & Conclusion 
-- Sales peaked in November, lowest in February
-- Technology category has the highest revenue
-- Chairs, Phones, and Storage sub-categories perform best
-- Corporate segment yields higher average profit
-- Some sub-categories generate high sales but low profit — requiring pricing strategy review
+** Sales peaked in November, lowest in February
+** Technology category has the highest revenue
+** Chairs, Phones, and Storage sub-categories perform best
+** Corporate segment yields higher average profit
+** Some sub-categories generate high sales but low profit — requiring pricing strategy review
  
-
 
 
